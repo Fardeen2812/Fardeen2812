@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me @fardee2812
+- 📫 How to reach me @fardeen2812
 - 😄 Pronouns: he
 - ⚡ Fun fact: don't know
 
