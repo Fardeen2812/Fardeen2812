@@ -27,17 +27,19 @@
 ## 💡 Featured Projects:
 ### 🌦️ WeatherHub
 **A Flask-based microservices architecture integrating Redis, PostgreSQL, and external APIs.**  
-🔗 [Repository Link](#) *(Update with actual repo link)*  
+🔗 https://github.com/Fardeen2812/WeatherHub-.git
 
 ### 🚀 DevOps Toolbox
 **A collection of Terraform modules, Jenkins pipelines, and Kubernetes configurations for scalable infrastructure.**  
-🔗 [Repository Link](#)  
+
 
 ---
 
 ## 📫 Let's Connect!
-🌐 [LinkedIn](#) *(Add your LinkedIn profile link)*  
-📧 [Email](#) *(Your email or contact method)*  
+🌐 https://www.linkedin.com/in/fardeen-ali-ba82381a0/  
+
+📧 Fardeen.ctps@gmail.com
+
 💡 Check out my latest GitHub contributions!  
 
 ---
