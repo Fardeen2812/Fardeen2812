@@ -1,47 +1,63 @@
 # Hi, I'm Fardeen! 👋
 
-🚀 Passionate about **Cloud Computing | DevOps | Microservices**  
-🔍 Always exploring **Azure, Docker, Kubernetes, Terraform, Jenkins**  
-📌 Currently building **WeatherHub**, a **Flask-based microservices web app** integrating Redis, PostgreSQL, and external APIs  
+🚀 Passionate about **Multi-Cloud DevOps | Microservices | Infrastructure as Code** 🔍 Exploring **AWS, Azure, Kubernetes, Docker, & Terraform** 📌 Currently building **WeatherHub** and mastering **Kubernetes Orchestration** for stateful applications.
 
 ---
 
-## 🔧 Tech Stack & Interests:
-- **Cloud & Containers:** Azure ☁️ | Docker 🐳 | Kubernetes ⚡
-- **Infrastructure as Code:** Terraform 🏗️ | CI/CD Pipelines 🚀
-- **Security & Networking:** Reverse Proxies | JWT Authentication 🔐
-- **Python & Automation:** Flask | Python Best Practices 🐍
-- **Git & Version Control:** Resolving Git conflicts & branch strategies 🔄
+## 🗺️ DevOps Roadmap & Goals
+I am actively following a structured DevOps roadmap. Here is my current status:
+
+- 🏆 **Certifications:** AWS Solutions Architect – Associate (Focus)
+- 🐳 **Containers:** Transitioning from Docker Compose to **Kubernetes** (Deployments, StatefulSets).
+- 🏗️ **IaC:** Building reusable **Terraform Modules** for both Azure & AWS resources.
+- 📊 **Monitoring:** Integrating **CloudWatch** and custom metrics for observability.
 
 ---
 
-## 📌 Current Focus:
-- Troubleshooting **Docker credential issues** for **Azure Container Registry**
-- Designing **Terraform modules** for **Redis, PostgreSQL, AKS, and Key Vault**
-- Debugging **API key handling** in **Flask & OpenWeather API**
-- Refining **Kubernetes namespaces** for resource isolation
-- Creating **flow diagrams** for my GitHub projects 📊
+## 🔧 Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | **AWS** (EC2, S3, CloudWatch, IAM) \| **Azure** (AKS, ACR, Key Vault) |
+| **Containerization** | Docker 🐳 \| Kubernetes ⚡ (Deployments, Services, PVCs) |
+| **IaC & CI/CD** | Terraform 🏗️ \| Jenkins ⚙️ \| GitHub Actions |
+| **Backend & Scripting** | Python 🐍 \| Flask \| Bash Scripting |
+| **Databases & Caching** | PostgreSQL 🐘 \| Redis ⚡ |
 
 ---
 
-## 💡 Featured Projects:
-### 🌦️ WeatherHub
-**A Flask-based microservices architecture integrating Redis, PostgreSQL, and external APIs.**  
-🔗 https://github.com/Fardeen2812/WeatherHub-.git
+## 📌 Current Focus
+- **Kubernetes State Management:** Implementing **Persistent Volumes (PV/PVC)** to ensure data persistence for my Note-Taking app.
+- **Cloud Security:** Managing secrets using **Azure Key Vault** and AWS IAM roles.
+- **Infrastructure as Code:** Refactoring infrastructure into modular Terraform blocks.
+- **Observability:** Setting up logging pipelines for microservices.
+
+---
+
+## 💡 Featured Projects
+
+### 🌦️ [WeatherHub](https://github.com/Fardeen2812/WeatherHub-.git)
+**A Flask-based microservices architecture integrating Redis, PostgreSQL, and external APIs.**
+* **Architecture:** Microservices pattern with separate services for UI and Data processing.
+* **Tech:** Flask, Redis (Caching), PostgreSQL, Docker.
+* **Key Feature:** Reliable API consumption and efficient data caching strategies.
+
+### 📝 [K8s Note-Taker](https://github.com/Fardeen2812/k8s-3tier-app) (Cloud Native)
+**A Python note-taking application containerized and orchestrated on Kubernetes.**
+* **Core Tech:** Docker, Kubernetes, Python/Flask.
+* **Infrastructure:**
+  * Uses **Deployments** for application scalability.
+  * Implements **PersistentVolumeClaims (PVC)** to ensure notes are saved even if pods restart.
+  * Exposes the application via **ClusterIP/NodePort Services**.
+* **Status:** *Completed – Demonstrating stateful workloads on K8s.*
 
 ### 🚀 DevOps Toolbox
-**A collection of Terraform modules, Jenkins pipelines, and Kubernetes configurations for scalable infrastructure.**  
-
+**A collection of Terraform modules, Jenkins pipelines, and Kubernetes configurations.**
+* Includes modules for: Redis, PostgreSQL, AKS, and AWS basic infra.
 
 ---
 
 ## 📫 Let's Connect!
-🌐 https://www.linkedin.com/in/fardeen-ali-ba82381a0/  
+🌐 [LinkedIn](https://www.linkedin.com/in/fardeen-aliii)  
+📧 [Fardeen.ctps@gmail.com](mailto:Fardeen.ctps@gmail.com)
 
-📧 Fardeen.ctps@gmail.com
-
-💡 Check out my latest GitHub contributions!  
-
----
-
-I'm always open to **collaborating**, **learning**, and tackling **new challenges**. Let’s build something amazing together! 🤖✨
+_I'm always open to collaborating on Cloud Native projects and tackling new DevOps challenges. Let’s build something amazing together!_ 🤖✨
